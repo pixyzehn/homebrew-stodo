@@ -1,5 +1,5 @@
 class Stodo < Formula
-  desc "Swifty command-line tool for todo list."
+  desc "Swifty command-line tool for a todo list."
   homepage "https://pixyzehn.com"
   url "https://github.com/pixyzehn/stodo.git",
       :tag => "0.1.2",

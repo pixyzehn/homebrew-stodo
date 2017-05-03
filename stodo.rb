@@ -12,7 +12,7 @@ class Stodo < Formula
     root_url "https://github.com/pixyzehn/stodo/releases/download/0.1.1"
   end
 
-  depends_on :xcode => ["8.3", :build]
+  depends_on :xcode => ["8.0", :build]
   depends_on 'carthage' => :build
 
   def install
